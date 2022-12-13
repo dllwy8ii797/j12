@@ -1,4 +1,4 @@
-public class hw12_13
+public class java12
 {
 public static void main(String args[])
 {
